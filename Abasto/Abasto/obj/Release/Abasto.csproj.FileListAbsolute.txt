@@ -1,0 +1,14 @@
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Release\Abasto.exe.config
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Release\Abasto.exe
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Release\Abasto.pdb
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Release\Aspose.Cells.dll
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.FrmBuscarInsumo.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.FrmListarPedidosProduccion.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.FrmRegistrarPedidosProduccion.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.Login.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.MenuPrincipal.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.Properties.Resources.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.exe
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.pdb
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Release\Abasto.csprojResolveAssemblyReference.cache

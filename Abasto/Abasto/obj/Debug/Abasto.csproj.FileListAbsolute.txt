@@ -1,0 +1,13 @@
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Debug\Abasto.exe.config
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Debug\Abasto.exe
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\bin\Debug\Abasto.pdb
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.FrmBuscarInsumo.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.FrmListarPedidosProduccion.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.FrmRegistrarPedidosProduccion.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.Login.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.MenuPrincipal.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.Properties.Resources.resources
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.exe
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.pdb
+C:\Users\Brian\Desktop\Abasto\Abasto\Abasto\obj\Debug\Abasto.csprojResolveAssemblyReference.cache
